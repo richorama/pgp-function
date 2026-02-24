@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+.git/
+generate_keys.py
